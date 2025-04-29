@@ -1,7 +1,7 @@
 # A-Frame Rounded Primitive/Component
 
 Smooth edges Rounded A-Plane Primitive/Component for [A-Frame](https://aframe.io) (compatible with new versions of A-Frame, tested on 1.7.1), to get a rectangle planes with rounded edges (border-radius-like).
-
+similar to the abandoned [repo](https://github.com/etiennepinchon/aframe-rounded) but compatible with new (three.js and A-Frame) versions.
 ## Getting Started
 
 ```html
