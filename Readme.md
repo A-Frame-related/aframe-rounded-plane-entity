@@ -22,3 +22,7 @@ similar to the abandoned [repo](https://github.com/etiennepinchon/aframe-rounded
 | bottom-right-radius | Border radius of the container | number | -1 (inherit) |
 | color | Color of the container. | color | "#F0F0F0" |
 | opacity | Opacity of the container | opacity | 1 |
+
+
+### Sponsored by:
+[A-Z cloud-EaaS](https://www.az-ecosys.com)
